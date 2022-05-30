@@ -1,0 +1,8 @@
+name = "w2-double-build"
+workers_dev = true
+compatibility_date = "2022-04-05"
+account_id = "--snip--"
+main = "dist/index.mjs"
+
+[build]
+command = "npm run build"
